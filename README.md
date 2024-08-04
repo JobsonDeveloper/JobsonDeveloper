@@ -30,4 +30,4 @@
 ### Buscando mais conhecimento:
 [![Technology](https://skillicons.dev/icons?i=react,typescript,sass&perline=3)](https://skillicons.dev)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF86&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077FF&height=120&section=footer"/>
