@@ -19,13 +19,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JobsonDeveloper&custom_title=Linguagens%20mais%20utilizadas&title_color=2BDEFD&text_color=00FF86&bg_color=000)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub status](https://github-readme-stats.vercel.app/api?username=JobsonDeveloper&custom_title=Detalhes&show_icons=true&theme=radical&title_color=2BDEFD&text_color=00FF86&bg_color=000&icon_color=2BDEFD)
 
-### Conhecimentos primários:
+### Conhecimentos primários
 [![Technology](https://skillicons.dev/icons?i=html,sass,typescript,php,laravel,mysql,androidstudio,&perline=3)](https://skillicons.dev)
 
-### Conhecimentos adicionais:
+### Conhecimentos adicionais
 [![Technology](https://skillicons.dev/icons?i=figma,bootstrap,postman,git,netlify,android&perline=3)](https://skillicons.dev)
 
-### Buscando mais conhecimento:
+### Buscando mais conhecimento
 [![Technology](https://skillicons.dev/icons?i=react,typescript,sass&perline=3)](https://skillicons.dev)
 
 <!-- GIF -->
