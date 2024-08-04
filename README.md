@@ -28,4 +28,11 @@
 ### Buscando mais conhecimento:
 [![Technology](https://skillicons.dev/icons?i=react,typescript,sass&perline=3)](https://skillicons.dev)
 
+<!-- GIF -->
+<p align="left">
+  <img align="center" src="https://i.imgur.com/RJ2hIyj.gif" alt="Imagem">
+</p>
+
+<!-- Title Interactive -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2BDEFD&size=35&center=true&vCenter=true&width=1000&lines=Foi+bom+ter+você+aqui;Espero+que+tenha+gostado;Volte+sempre)](https://git.io/typing-svg)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077FF&height=120&section=footer"/>
