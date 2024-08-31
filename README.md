@@ -4,7 +4,7 @@
 <!-- Title Interactive -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2BDEFD&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo!;Me+chamo+Jobson+de+Oliveira+Coutinho;Sou+desenvolvedor+Full+Stack+Junior)](https://git.io/typing-svg)
 
-[![Gráfico](https://github-readme-activity-graph.vercel.app/graph?username=JobsonDeveloper&custom_title=Gráfico%20de%20atividade&bg_color=transparent&color=2BDEFD&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Gráfico](https://github-readme-activity-graph.vercel.app/graph?username=JobsonDeveloper&custom_title=Gráfico%20de%20atividade&bg_color=000&color=2BDEFD&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![portifólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-jobson.netlify.app/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jobson-de-oliveira-coutinho-5882b9251/)
@@ -16,8 +16,8 @@
   <img align="center" src="https://raw.githubusercontent.com/thomas10-10/foo-Wallpaper-Feh-Gif/master/desktop-animation4.gif" alt="Imagem">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JobsonDeveloper&custom_title=Linguagens%20mais%20utilizadas&title_color=2BDEFD&text_color=00FF86&bg_color=transparent)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub status](https://github-readme-stats.vercel.app/api?username=JobsonDeveloper&custom_title=Detalhes&show_icons=true&theme=radical&title_color=2BDEFD&text_color=00FF86&bg_color=transparent&icon_color=2BDEFD)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JobsonDeveloper&custom_title=Linguagens%20mais%20utilizadas&title_color=2BDEFD&text_color=00FF86&bg_color=000)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub status](https://github-readme-stats.vercel.app/api?username=JobsonDeveloper&custom_title=Detalhes&show_icons=true&theme=radical&title_color=2BDEFD&text_color=00FF86&bg_color=000&icon_color=2BDEFD)
 
 ### Conhecimentos primários
 [![Technology](https://skillicons.dev/icons?i=html,sass,typescript,php,laravel,mysql,androidstudio,&perline=3)](https://skillicons.dev)
