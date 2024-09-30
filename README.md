@@ -4,7 +4,7 @@
 <!-- Title Interactive -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2BDEFD&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo!;Me+chamo+Jobson+de+Oliveira+Coutinho;Sou+desenvolvedor+Full+Stack+Junior)](https://git.io/typing-svg)
 
-
+[![Gráfico](https://github-readme-activity-graph.vercel.app/graph?username=JobsonDeveloper&custom_title=Gráfico%15de%15atividade&bg_color=000&color=2BDEFD&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![portifólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-jobson.netlify.app/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jobson-de-oliveira-coutinho-5882b9251/)
