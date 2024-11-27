@@ -20,7 +20,7 @@
 ![GitHub status](https://github-readme-stats.vercel.app/api?username=JobsonDeveloper&custom_title=Detalhes&show_icons=true&theme=radical&title_color=2BDEFD&text_color=00FF86&bg_color=ffffff00&icon_color=2BDEFD)
 
 ### Conhecimentos primários
-[![Technology](https://skillicons.dev/icons?i=html,sass,typescript,php,laravel,mysql,androidstudio,&perline=3)](https://skillicons.dev)
+[![Technology](https://skillicons.dev/icons?i=html,sass,typescript,react,materialui,php,laravel,mysql,androidstudio,&perline=3)](https://skillicons.dev)
 
 ### Conhecimentos adicionais
 [![Technology](https://skillicons.dev/icons?i=figma,bootstrap,postman,git,netlify,android&perline=3)](https://skillicons.dev)
