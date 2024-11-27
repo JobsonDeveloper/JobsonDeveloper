@@ -4,7 +4,7 @@
 <!-- Title Interactive -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2BDEFD&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo!;Me+chamo+Jobson+de+Oliveira+Coutinho;Sou+desenvolvedor+Full+Stack+Junior)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JobsonDeveloper&bg_color=171717&color=b0b0b0&line=00fa85&point=00a85a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JobsonDeveloper&bg_color=transparent&color=b0b0b0&line=00fa85&point=00a85a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![portifólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-jobson.netlify.app/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jobson-de-oliveira-coutinho-5882b9251/)
@@ -16,7 +16,7 @@
   <img align="center" src="https://raw.githubusercontent.com/thomas10-10/foo-Wallpaper-Feh-Gif/master/desktop-animation4.gif" alt="Imagem">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JobsonDeveloper&custom_title=Linguagens%20mais%20utilizadas&title_color=2BDEFD&text_color=00FF86&bg_color=000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JobsonDeveloper&custom_title=Linguagens%20mais%20utilizadas&title_color=2BDEFD&text_color=00FF86&bg_color=transparent)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub status](https://github-readme-stats.vercel.app/api?username=JobsonDeveloper&custom_title=Detalhes&show_icons=true&theme=radical&title_color=2BDEFD&text_color=00FF86&bg_color=000&icon_color=2BDEFD)
 
 ### Conhecimentos primários
