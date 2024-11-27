@@ -16,7 +16,7 @@
   <img align="center" src="https://raw.githubusercontent.com/thomas10-10/foo-Wallpaper-Feh-Gif/master/desktop-animation4.gif" alt="Imagem">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JobsonDeveloper&custom_title=Linguagens%20mais%20utilizadas&title_color=2BDEFD&text_color=00FF86&)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JobsonDeveloper&custom_title=Linguagens%20mais%20utilizadas&title_color=2BDEFD&text_color=00FF86&bg_color=ffffff00)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub status](https://github-readme-stats.vercel.app/api?username=JobsonDeveloper&custom_title=Detalhes&show_icons=true&theme=radical&title_color=2BDEFD&text_color=00FF86&bg_color=000&icon_color=2BDEFD)
 
 ### Conhecimentos primários
