@@ -26,7 +26,7 @@
 [![Technology](https://skillicons.dev/icons?i=figma,bootstrap,postman,git,netlify,android)](https://skillicons.dev)
 
 ### Buscando mais conhecimento
-[![Technology](https://skillicons.dev/icons?i=react,typescript,sass,java,postgres,spring)](https://skillicons.dev)
+[![Technology](https://skillicons.dev/icons?i=react,typescript,java,postgres,spring)](https://skillicons.dev)
 
 <!-- GIF -->
 <p align="left">
