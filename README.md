@@ -23,7 +23,7 @@
 [![Technology](https://skillicons.dev/icons?i=html,css,sass,js,typescript,jquery,react,redux,jest,cypress,styledcomponents,materialui,bootstrap,php,laravel,mysql,git,figma)](https://skillicons.dev)
 
 ### Conhecimentos adicionais
-[![Technology](https://skillicons.dev/icons?i=vue,gulp,babel,postman,netlify,android,postgres,androidstudio,idea,vercel)](https://skillicons.dev)
+[![Technology](https://skillicons.dev/icons?i=vue,gulp,babel,postman,netlify,postgres,androidstudio,idea,vercel)](https://skillicons.dev)
 
 ### Buscando mais conhecimento
 [![Technology](https://skillicons.dev/icons?i=react,typescript,java,spring)](https://skillicons.dev)
