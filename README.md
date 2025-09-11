@@ -13,10 +13,7 @@
 </p>
 
 <!-- Linguágens mais utilizadas -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JobsonDeveloper&custom_title=Linguagens%20mais%20utilizadas&title_color=2BDEFD&text_color=00FF86&bg_color=ffffff00)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- Status no GitHub -->
-![GitHub status](https://github-readme-stats.vercel.app/api?username=JobsonDeveloper&custom_title=Detalhes&show_icons=true&theme=radical&title_color=2BDEFD&text_color=00FF86&bg_color=ffffff00&icon_color=2BDEFD)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JobsonDeveloper&custom_title=Linguagens%20mais%20utilizadas&title_color=2BDEFD&text_color=00FF86&bg_color=ffffff00)](https://github.com/anuraghazra/github-readme-stats)<!-- Status no GitHub -->   ![GitHub status](https://github-readme-stats.vercel.app/api?username=JobsonDeveloper&custom_title=Detalhes&show_icons=true&theme=radical&title_color=2BDEFD&text_color=00FF86&bg_color=ffffff00&icon_color=2BDEFD)
 
 ## Ferramentas utilizadas
 
