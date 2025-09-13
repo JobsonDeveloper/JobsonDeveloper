@@ -2,10 +2,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077FF&height=120&section=header"/>
 
 <!-- Título Interativo -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2BDEFD&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo!;Me+chamo+Jobson+de+Oliveira+Coutinho;Sou+desenvolvedor+Full+Stack+Junior)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=01cf01&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo!;Me+chamo+Jobson+de+Oliveira+Coutinho;Sou+desenvolvedor+Full+Stack+Junior)](https://git.io/typing-svg)
 
 <!-- Gráfico de atividade -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JobsonDeveloper&bg_color=ffffff00&color=b0b0b0&line=00fa85&point=00a85a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JobsonDeveloper&bg_color=ffffff00&color=b0b0b0&line=00d157&point=00a85a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- GIF -->
 <p align="left">
@@ -13,7 +13,7 @@
 </p>
 
 <!-- Linguágens mais utilizadas -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JobsonDeveloper&custom_title=Linguagens%20mais%20utilizadas&title_color=2BDEFD&text_color=00FF86&bg_color=ffffff00)](https://github.com/anuraghazra/github-readme-stats)<!-- Status no GitHub -->   ![GitHub status](https://github-readme-stats.vercel.app/api?username=JobsonDeveloper&custom_title=Detalhes&show_icons=true&theme=radical&title_color=2BDEFD&text_color=00FF86&bg_color=ffffff00&icon_color=2BDEFD)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JobsonDeveloper&custom_title=Linguagens%20mais%20utilizadas&title_color=0063bf&text_color=0084ff&bg_color=ffffff00)](https://github.com/anuraghazra/github-readme-stats)<!-- Status no GitHub -->   ![GitHub status](https://github-readme-stats.vercel.app/api?username=JobsonDeveloper&custom_title=Detalhes&show_icons=true&theme=radical&title_color=0063bf&text_color=57aeff&bg_color=ffffff00&icon_color=2BDEFD)
 
 ## Ferramentas utilizadas
 
