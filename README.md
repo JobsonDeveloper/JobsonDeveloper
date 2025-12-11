@@ -13,7 +13,11 @@
 </p>
 
 <!-- Linguágens mais utilizadas -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JobsonDeveloper&custom_title=Linguagens%20mais%20utilizadas&title_color=0e72ff&text_color=1e7cff&bg_color=ffffff00)](https://github.com/anuraghazra/github-readme-stats)<!-- Status no GitHub -->   ![GitHub status](https://github-readme-stats.vercel.app/api?username=JobsonDeveloper&custom_title=Detalhes&show_icons=true&theme=radical&title_color=0e72ff&text_color=1e7cff&bg_color=ffffff00&icon_color=2BDEFD)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JobsonDeveloper&custom_title=Linguagens%20mais%20utilizadas&title_color=0e72ff&text_color=1e7cff&bg_color=ffffff00)](https://github.com/anuraghazra/github-readme-stats)--><!-- Status no GitHub -->   <!--![GitHub status](https://github-readme-stats.vercel.app/api?username=JobsonDeveloper&custom_title=Detalhes&show_icons=true&theme=radical&title_color=0e72ff&text_color=1e7cff&bg_color=ffffff00&icon_color=2BDEFD)-->
+
+
+![GitHub Stats](https://githubstatus.sdjz.wiki/api?username=JobsonDeveloper&border_radius=12&commits_year=2025&rank_icon=github&ring_color=9b59b6&theme=dark)
+
 
 ## Ferramentas utilizadas
 
