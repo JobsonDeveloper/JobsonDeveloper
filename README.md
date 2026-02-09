@@ -9,7 +9,7 @@
 
 <!-- Linguágens mais utilizadas -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JobsonDeveloper&custom_title=Most%20used%20languages&title_color=0e72ff&text_color=1e7cff&bg_color=ffffff00&cache_seconds=86400) ![GitHub status](https://github-readme-stats.vercel.app/api?username=JobsonDeveloper&custom_title=Details&show_icons=true&theme=radical&title_color=0e72ff&text_color=1e7cff&bg_color=ffffff00&icon_color=2BDEFD&cache_seconds=86400)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JobsonDeveloper&custom_title=Most%20used%20languages&title_color=0e72ff&text_color=1e7cff&bg_color=ffffff00&cache_seconds=86400) ![GitHub status](https://github-readme-stats.vercel.app/api?username=JobsonDeveloper&custom_title=Details&show_icons=true&theme=radical&title_color=0e72ff&text_color=1e7cff&bg_color=ffffff00&icon_color=2BDEFD&cache_seconds=86400)-->
 
 ## Tools used:
 
