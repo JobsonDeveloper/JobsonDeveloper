@@ -5,11 +5,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=015ecf&size=35&center=true&vCenter=true&width=1000&lines=Welcome!;My+name+is+Jobson+de+Oliveira;I'm+a+Full-Stack+Developer)](https://git.io/typing-svg)
 
 <!-- Gráfico de atividade -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JobsonDeveloper&bg_color=ffffff00&color=b0b0b0&line=00d157&point=00a85a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JobsonDeveloper&bg_color=ffffff00&color=b0b0b0&line=00db79&point=00db79&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Linguágens mais utilizadas -->
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JobsonDeveloper&custom_title=Most%20used%20languages&title_color=0e72ff&text_color=1e7cff&bg_color=ffffff00&cache_seconds=86400) ![GitHub status](https://github-readme-stats.vercel.app/api?username=JobsonDeveloper&custom_title=Details&show_icons=true&theme=radical&title_color=0e72ff&text_color=1e7cff&bg_color=ffffff00&icon_color=2BDEFD&cache_seconds=86400)-->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JobsonDeveloper&background=transparent&hide_border=true&short_numbers=true&ring=00db79&fire=ffc654&currStreakNum=0095ff&currStreakLabel=0095ff&sideNums=0e72ff&sideLabels=0095ff&dates=ffc654" />
+</div>
+
+
 
 ## Tools used:
 
