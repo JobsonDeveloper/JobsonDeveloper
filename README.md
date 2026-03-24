@@ -36,14 +36,6 @@
 #### Other tools:
 [![Technology](https://skillicons.dev/icons?i=aws,docker,git,github,figma,postman)](https://skillicons.dev)
 
-<!--
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JobsonDeveloper/JobsonDeveloper/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JobsonDeveloper/JobsonDeveloper/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JobsonDeveloper/JobsonDeveloper/output/pacman-contribution-graph.svg">
-</picture> 
--->
-
 <!-- GIF -->
 <p align="left">
   <img align="center" src="https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif" alt="Imagem">
