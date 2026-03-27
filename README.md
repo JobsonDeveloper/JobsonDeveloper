@@ -25,7 +25,7 @@
 </div>
 
 #### Back-End
-[![Technology](https://skillicons.dev/icons?i=java,hibernate,maven,eclipse,idea,mysql,postgres,mongodb,php,laravel)](https://skillicons.dev)
+[![Technology](https://skillicons.dev/icons?i=java,kafka,hibernate,maven,eclipse,idea,mysql,postgres,mongodb,php,laravel)](https://skillicons.dev)
 <div>
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" alt="Spring Boot" title="Spring Boot"/></code>
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/junit.png" alt="JUnit" title="JUnit"/></code>
