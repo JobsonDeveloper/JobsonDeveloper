@@ -36,6 +36,10 @@
 #### Other tools:
 [![Technology](https://skillicons.dev/icons?i=aws,docker,git,github,figma,postman)](https://skillicons.dev)
 
+## Featured project:
+[![E-Sale image](https://github.com/user-attachments/assets/d138e86a-e860-4ed3-aa66-5acec1c2b233)](https://github.com/JobsonDeveloper/E-Sale)
+</br>
+
 <!-- GIF -->
 <p align="left">
   <img align="center" src="https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif" alt="Imagem">
