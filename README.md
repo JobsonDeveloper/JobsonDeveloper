@@ -4,8 +4,8 @@
 <!-- Título Interativo -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=015ecf&size=35&center=true&vCenter=true&width=1000&lines=Welcome!;My+name+is+Jobson+de+Oliveira;I'm+a+Full-Stack+Developer)](https://git.io/typing-svg)
 
-<!-- Gráfico de atividade -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JobsonDeveloper&bg_color=ffffff00&color=b0b0b0&line=00db79&point=00db79&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Gráfico de atividade
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JobsonDeveloper&bg_color=ffffff00&color=b0b0b0&line=00db79&point=00db79&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <!-- Linguágens mais utilizadas -->
 
